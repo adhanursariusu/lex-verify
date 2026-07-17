@@ -37,7 +37,7 @@ To reassure hosting providers and maintain platform compliance:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lex-verify.git
+      git clone https://github.com/yourusername/lex-verify.git
    cd lex-verify
    ```
 
